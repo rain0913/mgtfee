@@ -95,7 +95,7 @@ table, th, td {
   <tr>
     <th>Ｃode</th>
     <th>屋邨名稱</th>
-    <th>Estate Name</techo $_SESSION["username"];h>
+    <th>Estate Name</th>
     <th>PS</th>
     <th>合約狀態</th>
     <th>負責人</th>
